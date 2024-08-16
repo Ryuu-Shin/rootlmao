@@ -1,2 +1,2 @@
 launch to binder
-(https://mybinder.org/v2/gh/Ryuu-Shin/rootlmao.git/HEAD)
+https://mybinder.org/v2/gh/Ryuu-Shin/rootlmao.git/HEAD
